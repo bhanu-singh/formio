@@ -1,9 +1,9 @@
 {
-  "port": 3001,
+  "port": 80,
   "appPort": 8080,
-  "host": "localhost:3001",
-  "protocol": "http",
-  "domain": "http://localhost:3001",
+  "host": "https://bhanuntuc.herokuapp.com:80",
+  "protocol": "https",
+  "domain": "https://bhanuntuc.herokuapp.com:80",
   "basePath": "",
   "mongo": "mongodb+srv://mongouser:DRftgyhu101@bumblebee-mongo-clstr-lt75u.mongodb.net/formioapp?retryWrites=true&w=majority",
   "mongoConfig": "",
